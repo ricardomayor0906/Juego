@@ -1,5 +1,3 @@
-package juego;
-
 import java.util.Random;
 import java.util.Scanner;
 
